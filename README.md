@@ -1,26 +1,26 @@
 <p align='center'>
   <a href="https://github.com/kce0508">
-    <img src="https://capsule-render.vercel.app/api?type=blur&height=250&color=gradient&text=ChaeChae%20Dev%20Repo&fontColor=005174&fontSize=60&animation=fadeIn&desc=IoT%20CSharp,Java,Python%20Lecturer&fontAlign=50&fontAlignY=44"/>
+    <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=f8cced&text=chaechae%20Dev%20Repo&section=header&textBg=false&fontColor=f285ca&fontSize=55&fontAlign=66&animation=fadeIn&desc=IoT%20CSharp,Java,Python,Lecturer&fontAlignY=44&descAlign=77&descAlignY=57"/>
   </a>
 </p>
 
-## Profile
+## 😺Profile😺
 - `Name` : Kim ChaeEun
 - `Email` : kce0508@naver.com
 - 🔭 I'm currently working as an **IoT instructor**
   - Major : C#, Smart Factory, IoT Development
   - Minor : Python, Java, Web Dev(Spring Boot, ASP.NET, etc)
  
-## GitHub Stat and Languages
+## 📊GitHub Stat and Languages
 <!-- username은 본인걸로 -->
 <p align='center'>
   <a href="https://github.com/kce0508">
-    <img src="https://github-readme-stats.vercel.app/api?username=kce0508&theme=tokyonight&show_icons=true"/>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kce0508&theme=tokyonight&layout=compact"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=kce0508&theme=dracula&show_icons=true"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kce0508&theme=dracula&layout=compact"/>
   </a>
 </p>
 
-## Using Languages
+## 🍀Using Languages
 <p align='left'>
     <img height="40" src="https://img.icons8.com/?size=100&id=Fycm8TUhWmFU&format=png&color=000000" title="C#">
     <img height="40" src="https://img.icons8.com/?size=100&id=55199&format=png&color=000000" title="C++">
@@ -37,7 +37,7 @@
     <img width="40" height="40" src="https://img.icons8.com/fluency/48/maria-db.png" alt="maria-db" title="MySQL/MariaDB">
 </p>
 
-## Using Technics
+## 🍀Using Technics
 <p align='left'>
   <img height="40" src="https://raw.githubusercontent.com/hugoMGSung/hugoMGSung/main/images/wpf.png" title="WPF"> 
   <img height="40" src="https://cdn-icons-png.flaticon.com/256/7808/7808214.png" title="SmartFactory">  
@@ -57,7 +57,7 @@
   -->
 </p>
 
-## Using Tools
+## 🍀Using Tools
 <p align='left'>
   <img height="40" src="https://img.icons8.com/?size=100&id=9OGIyU8hrxW5&format=png&color=000000" title="Visual Studio Code">
   <img height="40" src="https://img.icons8.com/?size=100&id=ezj3zaVtImPg&format=png&color=000000" title="Visual Studio">
@@ -73,7 +73,7 @@
 |Python | 빅데이터분석, 머신러닝, OpenCV|
 -->
 
-## Project List
+## 🗂️Project List
 - [Website] [Personal Portfolio site](https://hugoMGSung.github.io)
 - [WPF] [WPF프로젝트](https://github.com/hugoMGSung/works-need-it-cshap/tree/main/studyWpf/portfolio)
 - [IoT] [IoT프로젝트](https://github.com/hugoMGSung/works-need-it-IoT/tree/main/energy_management_system)
